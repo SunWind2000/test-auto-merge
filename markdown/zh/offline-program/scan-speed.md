@@ -12,3 +12,5 @@
 - 视频资源：./scan-speed.assets/videos/demo.mp4
 
 ::fs-video{src="./scan-speed.assets/videos/demo.mp4" controls=true}
+
+<!-- fs-markdown editor latest UI smoke: 2026-05-26 -->
